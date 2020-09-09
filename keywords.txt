@@ -1,0 +1,49 @@
+#######################################
+# Library (KEYWORD3)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+cronEvent	KEYWORD1
+cron	KEYWORD1
+cronUserFunction_t  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+add	KEYWORD2
+handleEvents	KEYWORD2
+find	KEYWORD2
+lastRun	KEYWORD2
+update	KEYWORD2
+stop	KEYWORD2
+isActive	KEYWORD2
+size    KEYWORD2
+last KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+time_1s	LITERAL1
+time_5s	LITERAL1
+time_10s	LITERAL1
+time_15s	LITERAL1
+time_30s	LITERAL1
+time_1m	LITERAL1
+time_5m	LITERAL1
+time_10m	LITERAL1
+time_15m	LITERAL1
+time_30m	LITERAL1
+time_1h	LITERAL1
+time_5h	LITERAL1
+time_10h	LITERAL1
+time_12h	LITERAL1
+time_1d	LITERAL1
+second	LITERAL1
+minute	LITERAL1
+hour	LITERAL1
+day	LITERAL1
